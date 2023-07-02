@@ -1,4 +1,4 @@
-// EducationForm.js
+
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { updateEducationProfile } from './actions';
